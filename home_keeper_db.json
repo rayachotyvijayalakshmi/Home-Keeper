@@ -1,0 +1,26 @@
+{
+    "chores": {
+        "laundry": {
+            "assignee": "Alice",
+            "status": "pending"
+        },
+        "dishes": {
+            "assignee": "Bob",
+            "status": "completed"
+        },
+        "mowing": {
+            "assignee": "John",
+            "status": "pending"
+        }
+    },
+    "maintenance": {
+        "hvac_filter": {
+            "last_replaced": "2026-05-01",
+            "interval_days": 90
+        },
+        "gutters": {
+            "last_checked": "2026-04-15",
+            "interval_days": 180
+        }
+    }
+}
